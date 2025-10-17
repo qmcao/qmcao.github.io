@@ -1,3 +1,5 @@
-layout: page \
-title: "ABOUT ME" \
+---
+layout: page 
+title: "ABOUT ME" 
 permalink: /aboutminh 
+---
